@@ -1,0 +1,12 @@
+[submodule "EE6222-MV"]
+	path = EE6222-MV
+	url = https://github.com/Kexueyi/EE6222-MV
+[submodule "EE6227-ML"]
+	path = EE6227-ML
+	url = https://github.com/Kexueyi/EE6227-ML
+[submodule "EE6405-NLP"]
+	path = EE6405-NLP
+	url = https://github.com/Kexueyi/PassGPT-Demo
+[submodule "EE7403-IAPR"]
+	path = EE7403-IAPR
+	url = https://github.com/Kexueyi/EE7403-IAPR
